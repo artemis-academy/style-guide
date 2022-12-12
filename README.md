@@ -27,4 +27,4 @@ This is the place where can check for Smart Contract coding best practices, a st
 - NatSpec comments use `///`. But please don't bloat every single solidity line with natspec comments...
     - `/// @notice Natspec comment`
 - Consider denoting sections of your code in some way, e.g. with single line headers: 
-```// ========= HEADER ========= // ```
+    - ``` // ========= HEADER ========= // ```
