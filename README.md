@@ -1,6 +1,6 @@
 # Artemis Styling Guide
 
-This is the place where can check for Smart Contract coding best practices, a styling standard approved by the Artemis education team. This is heavily inspired on the [Bophades Coding Standard](https://github.com/OlympusDAO/olympus-v3/blob/master/CODE_STD.md) from the Olympus v3 repo.
+This is the place where you can check for Smart Contract coding best practices, a styling standard approved by the Artemis education team. This is heavily inspired on the [Bophades Coding Standard](https://github.com/OlympusDAO/olympus-v3/blob/master/CODE_STD.md) from the Olympus v3 repo.
 
 ## Basic Principles
 - Aim for clear and succinct code
@@ -9,7 +9,7 @@ This is the place where can check for Smart Contract coding best practices, a st
 - Comment on WHY, not WHAT. Code should be able to explain "what". AKA READABLE
 - Aim to write code that is self-documenting
 - Meaning clear function names and variables
-- Overall readability will bring auditability, which in turn bring security
+- Overall readability will bring auditability, which in turn brings security
 - Aim for gas-efficiency, but with above constraints
 
 ## Actual coding tips
